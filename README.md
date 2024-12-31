@@ -13,7 +13,9 @@ AnqkCalc is a basic and scientific mode calculator application built using Pytho
 - Cryptography library (for encrypted history saving)
 
 ## Installation
-
-1. Clone this repository:
    ```bash
    git clone https://github.com/Darky-Github/anqkcalc.git
+   cd Anqk-Software
+   pip install -r requirements.txt
+   python3 anqkcalc.py
+   ```
