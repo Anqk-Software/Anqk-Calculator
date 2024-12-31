@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+myenv/
+env/
+
+# Tkinter project files
+*.log
+*.db
+
+# History files
+history.enc
